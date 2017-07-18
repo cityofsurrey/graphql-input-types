@@ -15,9 +15,11 @@ export const schema = [`
   scalar DateString
   scalar SafeString
 `]
-export const resolvers = merge(PhoneString,
-                               EmailString,
-                               PostalCodeString,
-                               AlphaNumericString,
-                               DateString,
-                               SafeString)
+export const resolvers = merge(
+  EmailString,
+  PhoneString,
+  PostalCodeString,
+  AlphaNumericString,
+  DateString,
+  SafeString,
+)
