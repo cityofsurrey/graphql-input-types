@@ -1,6 +1,0 @@
-scalar EmailString
-scalar PhoneString
-scalar PostalCodeString
-scalar AlphaNumericString
-scalar DateString
-scalar SafeString
