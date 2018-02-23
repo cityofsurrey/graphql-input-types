@@ -1,6 +1,6 @@
 {
   "name": "graphql-input-types",
-  "version": "1.0.3",
+  "version": "1.1.0",
   "description": "Basic input types for City of Surrey",
   "main": "index.js",
   "scripts": {
