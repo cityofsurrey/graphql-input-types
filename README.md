@@ -1,5 +1,5 @@
 # graphql-input-types
-Basic input types for City of Surrey graphql services
+This project provides additional graphQL input types to the basic graphQL input types to enforce data format validation. 
 
 **Usage**
 ```
